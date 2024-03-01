@@ -1,2 +1,3 @@
 # OldTwitterClone
-I started creating a clone of Old Twitter. I will submit when it is finished.
+Sidebar has been added to this clone. Now I will create middlesection and right section.<br>
+Also I will add some images.
