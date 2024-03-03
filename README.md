@@ -1,3 +1,2 @@
 # OldTwitterClone
-Sidebar has been added to this clone. Now I will create middlesection and right section.<br>
-Also I will add some images.
+This clone has been completed. This is made using HTML and CSS.
